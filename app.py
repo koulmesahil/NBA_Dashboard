@@ -25,7 +25,7 @@ import torch
 
 
 
-from nba_ai_analyzer import analyze_player, analyze_zones, get_quick_stats, is_model_ready
+
 
 # Page configuration
 st.set_page_config(
