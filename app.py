@@ -649,21 +649,7 @@ def main():
         #st.sidebar.markdown("## 🎨 Visualization")
         color_option = "Make/Miss"
 
-    with st.sidebar:
-        st.markdown(
-                """
-                **Want more hoops analytics?**  
-                [Check out my other NBA data dashboard ›](https://nba-player-comparison-tool.streamlit.app/)
-                """
-            )
-            
-        st.markdown("---")
-    
-        st.markdown("### 🔗 Connect with Me")
-        st.markdown("""
-            [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sahilkoul123/)  | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat)](https://koulmesahil.github.io/)
-            """, unsafe_allow_html=True)
-        st.markdown("---")
+
 
 
         
