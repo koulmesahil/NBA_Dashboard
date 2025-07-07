@@ -650,6 +650,26 @@ def main():
         color_option = "Make/Miss"
 
 
+            
+        st.sidebar.markdown(
+                """
+                **Want more hoops analytics?**  
+                [Check out my other NBA data dashboard ›](https://nba-player-comparison-tool.streamlit.app/)
+                """
+            )
+            
+        st.sidebar.markdown("---")
+    
+        st.sidebar.markdown("### 🔗 Connect with Me")
+        st.sidebar.markdown("""
+            [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sahilkoul123/)  | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat)](https://koulmesahil.github.io/)
+            """, unsafe_allow_html=True)
+        st.sidebar.markdown("---")
+
+
+        
+
+
 
 
         
