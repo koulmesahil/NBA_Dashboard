@@ -639,7 +639,7 @@ def main():
 
 
         
-        with st.sidebar:
+    with st.sidebar:
             st.markdown(
                 """
                 **Want more hoops analytics?**  
